@@ -1,4 +1,4 @@
-baseurl = "https://andmos.github.io/ute.amosti.net/"
+baseurl = "https://ute.amosti.net/"
 title = "Ute"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
