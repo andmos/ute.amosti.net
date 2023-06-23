@@ -88,6 +88,9 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "ARKIV"
   href =  "/arkiv/"
   [[params.addtional_menus]]
+  title =  "RESSURSER"
+  href =  "/ressurser/"
+  [[params.addtional_menus]]
   title =  "OM"
   href =  "/om/"
 
