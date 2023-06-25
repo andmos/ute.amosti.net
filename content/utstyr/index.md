@@ -23,9 +23,9 @@ Denne siden inneholder en oppdatert oversikt over utstyr og klær i aktiv bruk.
 
 ### Tech
 
-| Modell            | Type         | Vekt  | Notat                                                                                                                                       |
-| ----------------- | ------------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Apple Watch Ultra | Smartklokke  | 61.3g | Sammen med [Athlytic](https://www.athlyticapp.com/) for helseanalyse og [WorkOutDoors](http://www.workoutdoors.net/) for kart og aktivitet. |
+| Modell                                                                                | Type         | Vekt  | Notat                                                                                                                                       |
+| ------------------------------------------------------------------------------------- | ------------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Apple Watch Ultra](https://support.apple.com/kb/SP879?viewlocale=no_NO&locale=no_NO) | Smartklokke  | 61.3g | Sammen med [Athlytic](https://www.athlyticapp.com/) for helseanalyse og [WorkOutDoors](http://www.workoutdoors.net/) for kart og aktivitet. |
 
 ### Klær
 
