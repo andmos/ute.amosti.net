@@ -8,7 +8,7 @@ multilingual: false
 ## Utstyrsoversikt
 
 For mange er mye av gleden med aktiviteter ute knyttet til utstyret som brukes.
-Selv om løping og annen aktivitet ute i utgangspunktet er blant de billigste hobbyene man kan ha, er det fortsatt fullt mulig å investere enorme summer i utstyr.
+Selv om løping og annen kondisjonsidrett ute i utgangspunktet er blant de billigste hobbyene man kan ha, er det fortsatt fullt mulig å investere enorme summer i utstyr.
 
 Denne siden inneholder en oppdatert oversikt over utstyr og klær i aktiv bruk.
 
