@@ -30,11 +30,11 @@ Denne siden inneholder en oppdatert oversikt over utstyr og klær i aktiv bruk.
 
 ### Klær
 
-| Modell                                                                                                                   | Type                  | Vekt | Notat                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------ | --------------------- | ---- | ----------------------------------------------------------------------------- |
-| [Patagonia Houdini](https://www.patagonia.com/product/mens-houdini-windbreaker-jacket/191743706141.html)                 | Vindjakke             | 105g | Allsidig og lett vindjakke med lett vannavstøting til helårsbruk.             |
-| [Dynafit Alpine Gtx](https://www.dynafit.com/alpine-gore-tex-jacket-men-08-0000071468)                                   | Gore-tex jakke        | 225g | Hardshell Gore-Tex jakke for regnvær.                                         |
-| [Patagonia Airshead Pro Pullover](https://www.patagonia.com/product/mens-airshed-pro-running-pullover/195699538177.html) | Mellomlag / vindjakke | 113g | Vindskjorte som funker som mellomlag eller alene. Veldig lett vannavstøtende. |
+| Modell                                                                                                                   | Type                  | Vekt | Notat                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------ | --------------------- | ---- | --------------------------------------------------------------------------------------- |
+| [Patagonia Houdini](https://www.patagonia.com/product/mens-houdini-windbreaker-jacket/191743706141.html)                 | Vindjakke             | 105g | Allsidig og lett vindjakke med lett vannavstøting til helårsbruk.                       |
+| [Dynafit Alpine Gtx](https://www.dynafit.com/alpine-gore-tex-jacket-men-08-0000071468)                                   | Gore-tex jakke        | 225g | Hardshell Gore-Tex jakke for regnvær.                                                   |
+| [Patagonia Airshead Pro Pullover](https://www.patagonia.com/product/mens-airshed-pro-running-pullover/195699538177.html) | Mellomlag / vindjakke | 113g | Vindskjorte med hette som funker som mellomlag eller alene. Veldig lett vannavstøtende. |
 
 ### Sekk / vest
 
