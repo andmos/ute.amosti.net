@@ -84,19 +84,19 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.addtional_menus]]
   title =  "RUTER"
-  href =  "/arkiv/" 
+  href =  "/arkiv" 
   [[params.addtional_menus]]
   title =  "UTSTYR"
-  href =  "/utstyr/"
+  href =  "/utstyr"
   [[params.addtional_menus]]
   title =  "ARKIV"
-  href =  "/arkiv/"
+  href =  "/arkiv"
   [[params.addtional_menus]]
   title =  "RESSURSER"
-  href =  "/ressurser/"
+  href =  "/ressurser"
   [[params.addtional_menus]]
   title =  "OM"
-  href =  "/om/"
+  href =  "/om"
 
 [outputFormats.Algolia]
 baseName = "algolia"
