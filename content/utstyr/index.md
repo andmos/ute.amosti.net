@@ -27,6 +27,7 @@ Denne siden inneholder en oppdatert oversikt over utstyr og klær i aktiv bruk.
 | Modell                                                                                | Type         | Vekt  | Notat                                                                                                                                       |
 | ------------------------------------------------------------------------------------- | ------------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Apple Watch Ultra](https://support.apple.com/kb/SP879?viewlocale=no_NO&locale=no_NO) | Smartklokke  | 61.3g | Sammen med [Athlytic](https://www.athlyticapp.com/) for helseanalyse og [WorkOutDoors](http://www.workoutdoors.net/) for kart og aktivitet. |
+| [Silva Trail Runner Free](https://silvasweden.uk/products/trail-runner-free-ultra)    | Hodelykt     | 123g  | Hodelykt med 3 styrker og nødlys i batterikassetten.                                                                                        |
 
 ### Klær
 
@@ -39,6 +40,8 @@ Denne siden inneholder en oppdatert oversikt over utstyr og klær i aktiv bruk.
 | [NNormal Merino Long Sleeve T-shirt ](https://www.nnormal.com/en_NO/men/apparel/lv2/nnormal-men%E2%80%99s_merino_long_sleeve_t-shirt-N2CMML1-001) | Baselag                      | 138g | Langarmet, tynn trøye i merinoull.                                                                                                    |
 | [Salomon Cross Twinskin Shorts](https://www.salomon.com/en-no/shop-emea/product/cross-twinskin-lc11673.html#color=73687&size=26466)               | Shorts                       | 174g | Allsidig shorts med innsydd tights. Lomme bak og på høyre lår.                                                                        |
 | [Patagonia Nine Trails Shorts 8"](https://www.salomon.com/en-no/shop-emea/product/cross-twinskin-lc11673.html#color=73687&size=26466)             | Shorts                       | 176g | Lengre shorts med 3 glidelåslommer. Pakkes sammen i baklomme.                                                                         |
+| [Swix Triac NeoShell pants](https://www.swixsport.com/no/klar/herre/bukser/swix-triac-neo-shell-pants-m/?item=22231-10000)                        | Bukse                        | 247g | Hybridbukse for de virkelig kalde dagene ute.                                                                                         |
+| [Swix Focus Warm Tights](https://www.swixsport.com/no/klar/herre/tights/focus-warm-tights-m/?item=22451-10000)                                    | Tights                       | 290g | Varm tights når graderstokken ligger -5 til +5 grader. grader.                                                                        |
 
 ### Sekk / vest
 
