@@ -61,6 +61,6 @@ Denne siden inneholder en oppdatert oversikt over utstyr og klær i aktiv bruk (
 
 ### Annet
 
-| Modell                                                                                  | Type      | Vekt | Notat                                                                           |
-| --------------------------------------------------------------------------------------- | --------- | ---- | ------------------------------------------------------------------------------- |
-| [Snowline Chainsen Trail](https://www.snowline.co.kr/en/product/product_view.php?idx=8) | Vindjakke | 100g | Lette brodder med pigger på 7.5mm. Brukes hovedsaklig på stien i vinterhalvåret |
+| Modell                                                                                  | Type    | Vekt | Notat                                                                           |
+| --------------------------------------------------------------------------------------- | ------- | ---- | ------------------------------------------------------------------------------- |
+| [Snowline Chainsen Trail](https://www.snowline.co.kr/en/product/product_view.php?idx=8) | Brodder | 100g | Lette brodder med pigger på 7.5mm. Brukes hovedsaklig på stien i vinterhalvåret |
