@@ -30,6 +30,7 @@ Denne siden inneholder en oppdatert oversikt over utstyr og klær i aktiv bruk (
 | Modell                                                                                | Type         | Vekt  | Notat                                                                                                                                       |
 | ------------------------------------------------------------------------------------- | ------------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Apple Watch Ultra](https://support.apple.com/kb/SP879?viewlocale=no_NO&locale=no_NO) | Smartklokke  | 61.3g | Sammen med [Athlytic](https://www.athlyticapp.com/) for helseanalyse og [WorkOutDoors](http://www.workoutdoors.net/) for kart og aktivitet. |
+| [Coros Hearth Rate Monitor](https://coros.com/heart-rate-monitor) | Pulsmåler  | 19.5g | Optisk pulsmåler for bruk på biceps.|
 | [Silva Trail Runner Free](https://silvasweden.com/no/products/trail-runner-free-2)    | Hodelykt     | 123g  | Hodelykt med 3 styrker og nødlys i batterikassetten. 50 til 400 lumen.                                                                      |
 
 ### Klær
