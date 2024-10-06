@@ -66,3 +66,4 @@ Denne siden inneholder en oppdatert oversikt over utstyr og klær i aktiv bruk (
 | Modell                                                                                  | Type    | Vekt | Notat                                                                           |
 | --------------------------------------------------------------------------------------- | ------- | ---- | ------------------------------------------------------------------------------- |
 | [Snowline Chainsen Trail](https://www.snowline.co.kr/en/product/product_view.php?idx=8) | Brodder | 100g | Lette brodder med pigger på 7.5mm. Brukes hovedsaklig på stien i vinterhalvåret |
+| [Black Diamond Distance Carbon Z Trekking/Running Poles](https://www.snowline.co.kr/en/product/product_view.php?idx=8) | Staver | 140g | Lette karbonstaver med 120cm lengde for sanking av høydemeter |
