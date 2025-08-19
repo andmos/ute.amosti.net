@@ -66,7 +66,7 @@ Denne siden inneholder en oppdatert oversikt over utstyr og klær i aktiv bruk (
 | [Salomon ActiveSkin 8](https://www.salomon.com/en-no/shop-emea/product/active-skin-8-set.html#color=70123)                            | Løpevest | 210g | 8l    | Goto løpevest/sekk for enkle, raske turer på opptill flere timer.                                                |
 | [Salomon Adv Skin Cross Season 15](https://www.salomon.com/en-no/shop-emea/product/adv-skin-cross-season-15-lc11960.html#color=73801) | Løpevest | 320g | 15l   | Vanntett løpevest/sekk for turer hvor mer last er nødvendig eller været er dårlig.                               |
 | [Osprey Talon 22](https://www.osprey.com/no_nb/osprey-talon-22-2021)                                                                  | Sekk     | 610g | 22l   | Allsidig løpesekk med nok plass til laptop, klesskift mm. Brukes som pendlesekk til og fra jobb hver eneste dag. |
-| [Naked Running Band V1](https://nakedsportsinnovations.com/products/naked-running-band?srsltid=AfmBOorADlKrJWwZfv0_Yjpwe2gaRFHNaisnPFMgBNv_Lc2GCT_BBi97&variant=40776613167284)                                                                  | Belte    | 70g | 2l   | Lett og komfortabelt belte for oppbevaring av diverse under løpeturer. Plass til 3 500ml softflasks. | 
+| [Naked Running Band V1](https://nakedsportsinnovations.com/products/naked-running-band?srsltid=AfmBOorADlKrJWwZfv0_Yjpwe2gaRFHNaisnPFMgBNv_Lc2GCT_BBi97&variant=40776613167284)                                                                  | Belte    | 70g | 2l   | Lett og komfortabelt belte for oppbevaring av diverse under løpeturer. Plass til 3 500ml softflasks og staver. |
 
 ### Annet
 
